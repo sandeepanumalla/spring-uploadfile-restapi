@@ -1,0 +1,38 @@
+whats the problem?
+=in 3 months I want a job.
+ whats stopping you from?
+ = my resume is bad.
+  you did training, some projects, and learnt a lot of things. what is causing this problem?
+  = my resume dont have good projects. And crio has weak projects.
+   have you started working on project? then?
+   = yes I started and I stuck because of perfectionism.
+    what do you mean by perfectionism?
+    = I am to much focusing on things being perfect. adding the new features on the go. trying to make it perfect. But I beleive these all doesn't matter than having a project mentioned in resume. I couldn't finish on time makes me weaker and worried.
+     why not write down the features that would acheive the project in 2 days? bare minimum features? and work on it and acheive things faster and soon as possible and feel better? and after that if you want you can extend the features afterwards if you have time??
+     = sounds good to me.
+     Okay anything else?
+     = nothing but how can I decide what I want for bare minimum features?
+      what is the project about?
+      = its a task management app. 
+       hmm. I beleive user should be able to login, register and logout. 
+	    able to create tasks, edit them and update them. what makes it tougher??
+       =oh I was focusing on security aspects, websockets for notification and jwts. 
+        thats what causing the problem. do you think these are the bare minimum features??
+        = so should I build it iteratively?
+	Not really. I donno what you mean iteratively but you can probably focus on security, websockets and notifiction and jwts afterwards. But login, register and logout are the fundamental things??
+        = yes. 
+
+
+
+implement the jwt httpOnly and test it. (completed)
+integrate the signin and register and signout on frontend (completed)
+bring the effect of the integration.
+model the database again
+
+
+
+
+
+
+
+
