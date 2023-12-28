@@ -1,12 +1,10 @@
 package demo.springuploadfile.service;
 
-import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Service;
 import org.springframework.web.multipart.MultipartFile;
 
 import java.io.File;
-import java.io.IOException;
 
 @Service
 public class AttachmentFileUploadService implements FileUploadService{

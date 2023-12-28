@@ -1,7 +1,6 @@
 package demo.springuploadfile.service;
 
 
-import org.springframework.boot.web.servlet.MultipartConfigFactory;
 import org.springframework.stereotype.Service;
 import org.springframework.web.multipart.MultipartFile;
 
